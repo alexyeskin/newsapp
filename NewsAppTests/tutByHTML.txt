@@ -1,0 +1,560 @@
+<html class="no-js desktop scrollable lang-rus page-article" lang="ru"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta http-equiv="x-dns-prefetch-control" content="on" />
+    <link rel="dns-prefetch" href="https://img.tyt.by/" />
+    <link rel="preconnect" href="https://img.tyt.by/" />
+    <link rel="dns-prefetch" href="https://www.tut.by/" />
+    <link rel="dns-prefetch" href="https://reklama.tut.by/" />
+    <link rel="dns-prefetch" href="https://bugaga.tut.by/" />
+    <link rel="dns-prefetch" href="https://preved.tut.by/" />
+    <title>На торгах 9 января доллар и российский рубль подорожали</title>
+    <meta name="referrer" content="always" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="shortcut icon" href="https://news.tut.by/favicon.ico" />
+    <meta property="fb:pages" content="169531409778846" />
+    <meta property="fb:app_id" content="169506043071706" />
+    <link rel="prev" href="https://news.tut.by/economics/667823.html" />
+    <meta property="navigation:group:rubric" content="https://news.tut.by/economics/" />
+    <meta property="article:authors" content="490,u18" />
+    <meta property="og:title" content="На торгах 9 января доллар и российский рубль подорожали" />
+    <meta property="og:description" content="На Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами. Доллар укрепился на BYN 0,0021 — до 2,1159 рубля." />
+    <meta property="relap:enabled" content="1" />
+    <meta property="article:section" content="Новость дня" />
+    <meta property="article:published_time" content="2020-01-09T13:27+0300Z" />
+    <meta property="article:tags" content="2407,ex6024,ex6340" />
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content="https://news.tut.by/economics/667987.html" />
+    <meta property="og:image" content="https://dh.img.tyt.by/1200x630s/n/reuters/00/4/og_667987_dengi_valyuta_dollar_rtr4dt04.jpg?1578566596" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:locale" content="ru_RU" />
+    <meta property="og:site_name" content="TUT.BY" />
+    <meta property="vk:title" content="На торгах 9 января доллар и российский рубль подорожали" />
+    <meta property="vk:url" content="https://news.tut.by/economics/667987.html" />
+    <meta property="vk:image" content="https://dh.img.tyt.by/1200x630s/n/reuters/00/4/og_667987_dengi_valyuta_dollar_rtr4dt04.jpg?1578566596" />
+    <meta property="vk:description" content="На Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами. Доллар укрепился на BYN 0,0021 — до 2,1159 рубля." />
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:site" content="@tutby" />
+    <meta property="twitter:title" content="На торгах 9 января доллар и российский рубль подорожали" />
+    <meta property="twitter:description" content="На Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами. Доллар укрепился на BYN 0,0021 — до 2,1159 рубля." />
+    <meta property="twitter:image" content="https://img.tyt.by/n/reuters/00/4/dengi_valyuta_dollar_rtr4dt04.jpg" />
+    <meta property="twitter:url" content="https://news.tut.by/economics/667987.html" />
+    <meta property="mywidget:title" content="На торгах 9 января доллар и российский рубль подорожали" />
+    <meta property="mywidget:description" content="На Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами. Доллар укрепился на BYN 0,0021 — до 2,1159 рубля." />
+    <meta property="mywidget:image" content="https://img.tyt.by/n/reuters/00/4/dengi_valyuta_dollar_rtr4dt04.jpg" />
+    <meta property="yandex_recommendations_title" content="На торгах 9 января доллар и российский рубль подорожали" />
+    <meta property="yandex_recommendations_image" content="https://img.tyt.by/n/reuters/00/4/dengi_valyuta_dollar_rtr4dt04.jpg" />
+    <meta name="description" content="На Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами. Доллар укрепился на BYN 0,0021 — до 2,1159 рубля." />
+    <meta name="news_keywords" content="результаты торгов БВФБ, Беларусь -  Россия, Белорусская валютно-фондовая биржа" />
+    <meta name="relap-image" content="https://img.tyt.by/n/reuters/00/4/dengi_valyuta_dollar_rtr4dt04.jpg" />
+    <meta name="mediator" content="667987" />
+<meta name="mediator_author" content="TUT.BY" />
+<meta name="mediator_theme" content="результаты торгов БВФБ" />
+<meta name="mediator_theme" content="Беларусь -  Россия" />
+<meta name="mediator_theme" content="Белорусская валютно-фондовая биржа" />
+<meta name="mediator_published_time" content="2020-01-09T13:27:00+03:00" />
+    <link rel="amphtml" href="https://news.tut.by/amp/economics/667987.html">
+    <link rel="alternate" type="application/rss+xml" title="TUT.BY - Главные новости недели" href="https://news.tut.by/rss/index.rss" />
+    <link rel="alternate" type="application/rss+xml" title="TUT.BY - Все новости за день" href="https://news.tut.by/rss/all.rss" />
+    <link rel="alternate" type="application/rss+xml" title="TUT.BY - Новости компаний" href="https://news.tut.by/rss/press.rss" />
+    <link rel="stylesheet" type="text/css" href="https://news.tut.by/css/by5/style~article~fotorama~fix~r27379~r14125.css" />
+    <script src="https://www.tut.by/scripts/by4/jquery-2.2.4~modernizr~bootstrap~core~search~auth~hint~geo~geo-ext~content~ext~jquery.beforeAfterPhoto~vs~scrollreveal~r27379~r14075.js" charset="utf-8"></script>
+    <script src="/scripts/by4/core~r27379~r14075.js" charset="utf-8"></script>
+    <script>runCore.init({host:"\/",lang:"rus",time:1578571493,geotarget:["0","0"],geodata:{user:"15800",ip:"15800"},user:{email:""},rev:{js:"r27379~r14075",css:"r27379~r14125"},search: "",wurfl: {"id":"17595-99677-99861-18092","type":"desktop","os":"macos","os_version":"10.15.1","browser":"safari","browser_version":"13.0.3","mode":"desktop"}, navigation: {"group_id":"article"}, ab_variant: [false,false]});</script><script src="data:text/javascript;base64,cnVuQ29yZS5zZXRfcGFyYW0oInRyZ3QiLCJleUpvWldGa1pYSnpJanA3SWtkbGIyeHZZMkYwYVc5dUlqb2laMlZ2T2pVekxqZzVPVFlzTWpjdU5UWTNPRHRqWjJWdVBXMWhjRHQxUFRFd01EQWlMQ0pZTFVOdmRXNTBjbmtpT2lKQ1dTSXNJbGd0UjJWdlZHRnlaMlYwSWpvaU1UVTRNREFpTENKWUxUVXhSQ0k2SWpFM05UazFMVGs1TmpjM0xUazVPRFl4TFRFNE1Ea3lmR1JsYzJ0MGIzQjhiV0ZqYjNOOE1UQXVNVFV1TVh4OGZITmhabUZ5YVh3eE15NHdMak44TUNKOUxDSjBZWEpuWlhSeklqcDdJbU5wZEhraU9pSXhOVGd3TUNJc0luSmxaMmx2YmlJNk5Td2ljR0ZuWlNJNkltRnlkR2xqYkdVaUxDSnVaWGR6WDJsa0lqbzJOamM1T0Rjc0ltNWxkM05mWVdkbElqb3dMQ0p5ZFdKeWFXTnpJam9pT1NJc0luUmhaM01pT2lJeU5EQTNMR1Y0TmpBeU5DeGxlRFl6TkRBaUxDSnlaV1psY21WeUlqb2libVYzY3k1MGRYUXVZbmtpZlgwPSIpO3J1bkNvcmUuc2V0X3BhcmFtKCJpbnBhZ2UiLCIxMDMzIik7"></script>
+    <!-- CODE[09.01.2020 15:01]: news.tut.by, head -->
+<!-- (C)2000-2019 Gemius SA - gemiusAudience / news.tut.by --><script>var pp_gemius_identifier="0iIwEmMQy9b_.DmT4wcFwcQ6fdqWA4cSxUJH5Hu4ssz.c7";function gemius_pending(i){window[i]=window[i]||function(){var x=window[i+'_pdata']=window[i+'_pdata']||[];x[x.length]=arguments;};};gemius_pending('gemius_hit');gemius_pending('gemius_event');gemius_pending('pp_gemius_hit');gemius_pending('pp_gemius_event');(function(d,t){try{var gt=d.createElement(t),s=d.getElementsByTagName(t)[0],l='http'+((location.protocol=='https:')?'s':'');gt.setAttribute('async','async');gt.setAttribute('defer','defer');gt.src=l+'://gaby1.hit.gemius.pl/xgemius.js';s.parentNode.insertBefore(gt,s);}catch(e){}})(document,'script');</script>
+<script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script>
+<!-- Google Tag Manager --><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer',"GTM-KBPW36");</script><!-- /Google Tag Manager -->
+<script type="text/javascript" src="https://s4r.tut.by/api?rev=r0~r2375~r0~r0"></script>
+<script type="text/javascript" src="https://bugaga.tut.by/attachments/52523/prebid.js"></script><script>
+    var AdriverPrebid={adriverBids:{},winnerBid:{},winnerDeal:{}};AdriverPrebid.drawBanner=function(e,r){function i(e){return e.contentWindow?e.contentWindow.document:e.contentDocument}function d(e,r){if(e&&r)try{var i=AdriverPrebid.winnerDeal[r];void 0!==i&&void 0!==i.nurl&&void 0!==i.w&&void 0!==i.h&&(e.write('<IFRAME SRC="'+i.nurl+'" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="'+i.w+'" HEIGHT="'+i.h+'"></IFRAME>'),e.close(),e.defaultView&&e.defaultView.frameElement&&(e.defaultView.frameElement.width=i.w,e.defaultView.frameElement.height=i.h))}catch(e){}}if("undefined"==typeof r)try{if(e.origin.indexOf("adfox")===-1)return;var r=JSON.parse(e.data);if(!r.isAdriver||!r.place||!r.id)return}catch(e){}if("undefined"!=typeof r)try{if(!r.place||!r.id)return;var n,t,a=document.getElementById(r.place),o=r.dealid?r.dealid:void 0;if(void 0===o)n=AdriverPrebid.winnerBid[r.id][1],t=AdriverPrebid.winnerBid[r.id][2];else{if(void 0===AdriverPrebid.winnerDeal[o].w||void 0===AdriverPrebid.winnerDeal[o].h)return;n=AdriverPrebid.winnerDeal[o].w,t=AdriverPrebid.winnerDeal[o].h}a.innerHTML='<IFRAME id="adriver_frame_'+r.id+'" FRAMEBORDER="0" SCROLLING="no" MARGINHEIGHT="0" MARGINWIDTH="0" TOPMARGIN="0" LEFTMARGIN="0" ALLOWTRANSPARENCY="true" WIDTH="'+n+'" HEIGHT="'+t+'"></IFRAME>',void 0===o?setTimeout(function(){pbjs.renderAd(i(document.getElementById("adriver_frame_"+r.id)),AdriverPrebid.winnerBid[r.id][0])},100):setTimeout(function(){d(i(document.getElementById("adriver_frame_"+r.id)),o)},100)}catch(e){}},AdriverPrebid.sendAdserverRequest=function(){if(!pbjs.adserverRequestSent){pbjs.adserverRequestSent=!0;var e=pbjs.getHighestCpmBids();e.forEach(function(e){e.adUrl&&e.adUnitCode&&(AdriverPrebid.adriverBids[e.adUnitCode]=AdriverPrebid.adriverBids[e.adUnitCode].replace("false","true"),AdriverPrebid.winnerBid[e.adUnitCode]=[e.adId,e.width,e.height])}),window.addEventListener?window.addEventListener("message",AdriverPrebid.drawBanner,!1):window.attachEvent("onmessage",AdriverPrebid.drawBanner)}};var pbjs=pbjs||{};pbjs.que=pbjs.que||[];
+    pbjs.que.push(function () {
+        var adUnits = [{
+            code: 'wx_tutby_240x400',
+            sizes: [[240, 400]],
+            bids: [{
+                bidder: 'adriver',
+                params: {
+                    siteid: '220043',
+                    bidfloor: 26,
+                    dealid: '100002'
+                    }
+                 }]
+            }];
+    adUnits.forEach(function (unit) {unit.bids.forEach(function (bid) {if (bid.bidder === 'adriver') {if (bid.params.dealid === undefined) {AdriverPrebid.adriverBids[unit.code] = 'false';}}})});pbjs.addAdUnits(adUnits);pbjs.requestBids({bidsBackHandler: AdriverPrebid.sendAdserverRequest});});
+</script><script src="//get.s-onetag.com/b7f426b5-2ab8-420a-ac7b-8f019fbd5bfc/tag.min.js" async defer></script>
+<link rel="preload" href="https://img.tyt.by/i/by5/weather/d/5.png" as="image"><link rel="preload" href="https://img.tyt.by/i/tr.gif" as="image"><link rel="preload" href="https://img.tyt.by/i/by5/news/logo@1x.png" as="image"><link rel="preload" href="https://img.tyt.by/279x186c/n/balay/01/e/sud_narkotorgovlya_20160229_tutby_bas_phsl_dsc0392.jpg" as="image"><link rel="preload" href="https://img.tyt.by/279x186c/n/politika/08/8/podpisanie_vizovogo_soglasheniya_v_bryussele_2.jpg" as="image"><link rel="preload" href="https://img.tyt.by/279x186c/n/regiony/08/0/647cc59169fcc340d8361b136e3e6766695ad050.jpg" as="image"><link rel="preload" href="https://img.tyt.by/279x186c/n/popkorn/03/0/timati-232.jpg" as="image"><link rel="preload" href="https://img.tyt.by/p/06/10/googleplayapr.png" as="image"><link rel="preload" href="https://img.tyt.by/p/03/c/logo_apple_270115.png" as="image"><link rel="preload" href="https://img.tyt.by/i/by5/logo-tam.png" as="image"><link rel="preload" href="https://img.tyt.by/catalog/icons/icon-gift.png" as="image"></head><body class="m-media-pad"><!-- branding top may be here-->
+<div class="top-offer"><div style="text-align:center;">
+<!--Площадка: news.tut.by / * / *--><!--Тип баннера: 100%--><!--Расположение: <верх страницы>--><div id="adfox_151058231004924814"></div>
+<script>
+ window.Ya.adfoxCode.create({
+ ownerId: 246762,
+ containerId: 'adfox_151058231004924814',
+ params: {
+ pp: 'g',
+ ps: 'coqz',
+ p2: 'ftad',
+ puid1: '15800',
+ puid2: '9',
+ puid4:'2407:ex6024:ex6340',
+puid5: '0'
+ }
+ });
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/408/49709/img/157857149/3358_advertising.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/408/49709/js/157857149/3358_advertising.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div></div>
+<!--Service: 09.01.2020 15.04 --><div id="animated_mainmenu" class="b-topbar"><div class="b-topbar-h">
+    <div id="mainmenu"><ul class="b-topbar-i"><li class="topbar__li b-topbar-aside"><a href="https://www.tut.by/resource/" class="topbar-burger" data-target-popup="addon-menu-items"><span class="b-icon icon-burger"></span>Разделы</a></li><li class="topbar__li"><a href="https://www.tut.by/" class="topbar__link" title="TUT.BY" data-url-1="https://www.tut.by/resource/?id=1898&amp;ua=top_menu_news.tut.by%7E1898#ua:top_menu_news.tut.by~1898" data-url-2="https://www.tut.by/#ua:top_menu_news.tut.by~1898">TUT.BY</a></li><li class="topbar__li"><a href="https://finance.tut.by/" class="topbar__link" title="Финансы" data-url-1="https://www.tut.by/resource/?id=115&amp;ua=top_menu_news.tut.by%7E115#ua:top_menu_news.tut.by~115" data-url-2="https://finance.tut.by/#ua:top_menu_news.tut.by~115">Финансы</a><a href="https://finance.tut.by/kurs/" class="sub-inf" data-ua-hash="top_menu_kurs_news.tut.by">&nbsp;<span class="green">$2.1138</span></a></li><li class="topbar__li"><a href="https://afisha.tut.by/" class="topbar__link" title="Афиша" data-url-1="https://www.tut.by/resource/?id=75&amp;ua=top_menu_news.tut.by%7E75#ua:top_menu_news.tut.by~75" data-url-2="https://afisha.tut.by/#ua:top_menu_news.tut.by~75">Афиша</a></li><li class="topbar__li"><a href="https://jobs.tut.by/" class="topbar__link" title="Работа" data-url-1="https://www.tut.by/resource/?id=12&amp;ua=top_menu_news.tut.by%7E12#ua:top_menu_news.tut.by~12" data-url-2="https://jobs.tut.by/#ua:top_menu_news.tut.by~12">Работа</a></li><li class="topbar__li"><a href="https://pogoda.tut.by/" title="Погода" data-url-1="https://www.tut.by/resource/?id=641&amp;ua=top_menu_news.tut.by%7E641#ua:top_menu_news.tut.by~641" data-url-2="https://pogoda.tut.by/#ua:top_menu_news.tut.by~641" class="topbar__link"><img width="24" height="24" src="https://img.tyt.by/i/by5/weather/d/5.png" srcset="https://img.tyt.by/i/by5/weather/d/5@2x.png 2x" alt="пасмурно" title="пасмурно" class="forecast-icon">&nbsp;<span class="weather">+3&deg;</span></a></li>
+<li class="topbar__li"><a href="https://kupi.tut.by" class="topbar__link" title="Каталог цен" data-url-1="https://www.tut.by/resource/?id=1926&amp;ua=top_menu_news.tut.by%7E1926#ua:top_menu_news.tut.by~1926" data-url-2="https://kupi.tut.by#ua:top_menu_news.tut.by~1926">Каталог цен</a></li><li class="topbar__li"><a href="https://tvset.tut.by/" class="topbar__link" title="ТV-программа" data-url-1="https://www.tut.by/resource/?id=182&amp;ua=top_menu_news.tut.by%7E182#ua:top_menu_news.tut.by~182" data-url-2="https://tvset.tut.by/#ua:top_menu_news.tut.by~182">ТV-программа</a></li><li class="topbar__li"><a href="https://tam.by/?rr=" target="_blank" class="topbar__link" title="TAM.BY" data-url-1="https://www.tut.by/resource/?id=13&amp;ua=top_menu_news.tut.by%7E13#ua:top_menu_news.tut.by~13" data-url-2="https://tam.by/?rr=#ua:top_menu_news.tut.by~13">TAM.BY</a></li></ul><div class="b-topbar-more" data-popup="addon-menu-items"><a class="topbar-close"><span class="b-icon icon-close"></span><span class="topbar-close__text">Разделы</span></a><div class="topbarmore-w"><div class="topbarmore-c"><div class="topbarmore-i"><ul class="b-topbar-more-aside">
+    <li class="topbar__li"><a href="https://tam.by/" class="topbar__link" title="TAM.BY" target="_blank" data-url-1="https://www.tut.by/resource/?id=3676" data-url-2="https://tam.by">TAM.BY</a> — поиск компаний и услуг</li>
+    <li class="topbar__li"><a href="https://probusiness.io/" class="topbar__link" title="Про бизнес" target="_blank" data-url-1="https://www.tut.by/resource/?id=3462" data-url-2="https://probusiness.io/">Probusiness.io</a> — портал о бизнесе</li>
+    <li class="topbar__li"><a href="https://hoster.by/" class="topbar__link" title="Хостинг, регистрация доменов" target="_blank" data-url-1="https://hoster.by/" data-url-2="https://hoster.by/">hoster.by</a> — хостинг и регистрация доменов</li>
+    <li class="topbar__li"><a href="http://rebenok.by/" class="topbar__link" title="Ребёнок.by" target="_blank" data-url-1="https://www.tut.by/resource/?id=683" data-url-2="http://rebenok.by/">Rebenok.by</a> — энциклопедия для родителей</li>
+    <li class="topbar__li"><a href="http://help.blog.tut.by/" class="topbar__link" title="Им нужна помощь" target="_blank" data-url-1="https://www.tut.by/resource/?id=712&amp;ua=top_menu_www.tut.by%7E22#ua:top_menu_www.tut.by~22" data-url-2="http://help.blog.tut.by#ua:top_menu_www.tut.by~22">Ты можешь им помочь</a> — благотворительность</li>
+    <li class="topbar__li"><a href="https://tutby.com/advert/order/" class="topbar__link" title="реклама и специальные проекты на TUT.BY" target="_blank" data-utm="utm_source={{hostname}}&utm_medium=topmenu">tutby.com</a> &mdash;  реклама на TUT.BY</li>
+</ul><ul class="b-topbar-more-list">
+    <li class="topbar__li"><a href="https://news.tut.by/" class="topbar__link" title="Новости" data-url-1="https://www.tut.by/resource/?id=185&amp;ua=top_menu_news.tut.by%7E185#ua:top_menu_news.tut.by~185" data-url-2="https://news.tut.by/#ua:top_menu_news.tut.by~185"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res185" alt="Новости" />Новости</a></li><li class="topbar__li"><a href="https://42.tut.by/" class="topbar__link" title="42" data-url-1="https://www.tut.by/resource/?id=213&amp;ua=top_menu_news.tut.by%7E213#ua:top_menu_news.tut.by~213" data-url-2="https://42.tut.by/#ua:top_menu_news.tut.by~213"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res213" alt="42" />42</a></li><li class="topbar__li"><a href="https://pogoda.tut.by/" class="topbar__link" title="Погода" data-url-1="https://www.tut.by/resource/?id=4077&amp;ua=top_menu_news.tut.by%7E4077#ua:top_menu_news.tut.by~4077" data-url-2="https://pogoda.tut.by/#ua:top_menu_news.tut.by~4077"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4077" alt="Погода" />Погода</a></li><li class="topbar__li"><a href="https://finance.tut.by/" class="topbar__link" title="Финансы" data-url-1="https://www.tut.by/resource/?id=3677&amp;ua=top_menu_news.tut.by%7E3677#ua:top_menu_news.tut.by~3677" data-url-2="https://finance.tut.by/#ua:top_menu_news.tut.by~3677"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res3677" alt="Финансы" />Финансы</a></li><li class="topbar__li"><a href="https://afisha.tut.by/" class="topbar__link" title="Афиша" data-url-1="https://www.tut.by/resource/?id=4073&amp;ua=top_menu_news.tut.by%7E4073#ua:top_menu_news.tut.by~4073" data-url-2="https://afisha.tut.by/#ua:top_menu_news.tut.by~4073"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4073" alt="Афиша" />Афиша</a></li><li class="topbar__li"><a href="http://mail.tut.by/" class="topbar__link" title="Почта" data-url-1="https://www.tut.by/resource/?id=4074&amp;ua=top_menu_news.tut.by%7E4074#ua:top_menu_news.tut.by~4074" data-url-2="http://mail.tut.by/#ua:top_menu_news.tut.by~4074"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4074" alt="Почта" />Почта</a></li><li class="topbar__li"><a href="https://realty.tut.by/" class="topbar__link" title="Недвижимость" data-url-1="https://www.tut.by/resource/?id=188&amp;ua=top_menu_news.tut.by%7E188#ua:top_menu_news.tut.by~188" data-url-2="https://realty.tut.by/#ua:top_menu_news.tut.by~188"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res188" alt="Недвижимость" />Недвижимость</a></li><li class="topbar__li"><a href="http://search.tut.by" class="topbar__link" title="Поиск" data-url-1="https://www.tut.by/resource/?id=89&amp;ua=top_menu_news.tut.by%7E89#ua:top_menu_news.tut.by~89" data-url-2="http://search.tut.by#ua:top_menu_news.tut.by~89"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res89" alt="Поиск" />Поиск</a></li><li class="topbar__li"><a href="https://maps.tut.by/" class="topbar__link" title="Карты" data-url-1="https://www.tut.by/resource/?id=906&amp;ua=top_menu_news.tut.by%7E906#ua:top_menu_news.tut.by~906" data-url-2="https://maps.tut.by/#ua:top_menu_news.tut.by~906"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res906" alt="Карты" />Карты</a></li><li class="topbar__li"><a href="https://sport.tut.by/" class="topbar__link" title="Спорт" data-url-1="https://www.tut.by/resource/?id=1141&amp;ua=top_menu_news.tut.by%7E1141#ua:top_menu_news.tut.by~1141" data-url-2="https://sport.tut.by/#ua:top_menu_news.tut.by~1141"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res1141" alt="Спорт" />Спорт</a></li><li class="topbar__li"><a href="https://kupi.tut.by" class="topbar__link" title="Магазины" data-url-1="https://www.tut.by/resource/?id=3678&amp;ua=top_menu_news.tut.by%7E3678#ua:top_menu_news.tut.by~3678" data-url-2="https://kupi.tut.by#ua:top_menu_news.tut.by~3678"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res3678" alt="Магазины" />Магазины</a></li><li class="topbar__li"><a href="http://talks.by/" class="topbar__link" title="Форумы" data-url-1="https://www.tut.by/resource/?id=4076" data-url-2="http://talks.by/"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4076" alt="Форумы" />Форумы</a></li><li class="topbar__li"><a href="https://auto.tut.by/" class="topbar__link" title="Авто" data-url-1="https://www.tut.by/resource/?id=1752&amp;ua=top_menu_news.tut.by%7E1752#ua:top_menu_news.tut.by~1752" data-url-2="https://auto.tut.by/#ua:top_menu_news.tut.by~1752"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res1752" alt="Авто" />Авто</a></li><li class="topbar__li"><a href="https://jobs.tut.by/" class="topbar__link" title="Работа" data-url-1="https://www.tut.by/resource/?id=4075&amp;ua=top_menu_news.tut.by%7E4075#ua:top_menu_news.tut.by~4075" data-url-2="https://jobs.tut.by/#ua:top_menu_news.tut.by~4075"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4075" alt="Работа" />Работа</a></li><li class="topbar__li"><a href="https://promokodi.tut.by/" class="topbar__link" title="Промокоды" data-url-1="https://www.tut.by/resource/?id=5396&amp;ua=top_menu_news.tut.by%7E5396#ua:top_menu_news.tut.by~5396" data-url-2="https://promokodi.tut.by/#ua:top_menu_news.tut.by~5396"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res5396" alt="Промокоды" />Промокоды</a></li><li class="topbar__li"><a href="https://lady.tut.by/" class="topbar__link" title="Леди" data-url-1="https://www.tut.by/resource/?id=4579&amp;ua=top_menu_news.tut.by%7E4579#ua:top_menu_news.tut.by~4579" data-url-2="https://lady.tut.by/#ua:top_menu_news.tut.by~4579"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res4579" alt="Леди" />Леди</a></li><li class="topbar__li"><a href="https://tvset.tut.by/" class="topbar__link" title="ТВ-программа" data-url-1="https://www.tut.by/resource/?id=3679&amp;ua=top_menu_news.tut.by%7E3679#ua:top_menu_news.tut.by~3679" data-url-2="https://tvset.tut.by/#ua:top_menu_news.tut.by~3679"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res3679" alt="ТВ-программа" />ТВ-программа</a></li><li class="topbar__li"><a href="http://plati.tut.by/" class="topbar__link" title="Платежи онлайн" data-url-1="https://www.tut.by/resource/?id=1018&amp;ua=top_menu_news.tut.by%7E1018#ua:top_menu_news.tut.by~1018" data-url-2="http://plati.tut.by/#ua:top_menu_news.tut.by~1018"><img src="https://img.tyt.by/i/tr.gif" width="24" height="24" class="b-res-icon res1018" alt="Платежи онлайн" />Платежи онлайн</a></li>
+    <li class="topbar__li mores"><a href="https://www.tut.by/resource/" class="topbar__link">Все разделы</a></li>
+</ul></div></div></div>
+</div><script type="text/javascript">
+(function(el){
+    if(el.length>1) {
+        $(el.get(1)).find('a[href][data-utm]').each(function(){
+            var a=$(this);
+            a.attr('data-utm',a.attr('data-utm').replace('utm_medium=news-right-block','utm_medium=floating-news-right-block'));
+        });
+    }
+    runCore.init_tracking(el);
+})($('.b-topbar-more'));
+</script>
+</div>
+    <div class="topbar-s"><ul class="b-topbar-i">
+        <li class="topbar__li"><a id="geotarget_top_selector" class="topbar__link topbar-changeregion geoTargetName" title="Выберите свой населенный пункт, чтобы читать новости вашего региона" data-geocode="15800"><i class="b-icon icon-region"></i><span class="region-ttl"><span>Минск</span></span></a></li>
+        <li class="topbar__li"><div id="authorize" class="b-auth">
+    <div class="b-auth-i">
+        <a data-target-popup="authorize-form" class="enter"><i class="b-icon icon-auth"></i>Войти</a>
+        <div class="b-auth-f b-popup" data-popup="authorize-form">
+            <div class="b-popup-i">
+                <a data-target-popup="authorize-form"><span class="b-popup-close"></span></a>
+                <div class="b-popup-h">Вход</div>
+                <form class="auth-form" method="post" action="https://profile.tut.by/authorize/" accept-charset="utf-8">
+                    <input type="hidden" name="login_action" value="login">
+                    <div class="b-hold"><div class="i-holder"><input name="login" autocomplete="username" placeholder="Логин или эл.почта" class="i-p" tabindex="1" type="text"></div></div>
+                    <div class="b-hold"><div class="i-holder"><input name="password" autocomplete="current-password" placeholder="Пароль" class="i-p" tabindex="2" type="password"></div></div>
+                    <div class="b-hold">
+                        <a class="b-auth-recall" href="https://profile.tut.by/secret.html" tabindex="5">Забыли пароль?</a>
+                        <span class="b-remember"><input name="memory" id="memory" class="i-check" value="1" checked="checked" tabindex="3" type="checkbox"> <label for="memory">Запомнить</label></span>
+                    </div>
+                    <div class="b-hold"><input value="Войти" class="button flat-green auth__enter" tabindex="4" type="submit"></div>
+                </form>
+                <div class="b-auth-soc">
+                    <p class="auth-soc-h">Войти как пользователь</p>
+                    <ul class="social__list">
+                        <li class="social__item"><a rel="nofollow" href="https://profile.tut.by/externalauth.html?login=facebook" class="social__btn social__btn--fb" tabindex="5"></a></li>
+                        <li class="social__item"><a rel="nofollow" href="https://profile.tut.by/externalauth.html?login=vk" class="social__btn social__btn--vk" tabindex="6"></a></li>
+                        <li class="social__item"><a rel="nofollow" href="https://profile.tut.by/externalauth.html?login=google" class="social__btn social__btn--gp" tabindex="7"></a></li>
+                    </ul>
+                </div>
+                <a href="https://profile.tut.by/newtut.html" class="auth__reg" tabindex="8">Регистрация</a>
+            </div>
+        </div>
+    </div>
+</div><script>try { runCore.init_auth_guest("#authorize","inner"); } catch(e) {} try { runCore.init_tracking("#authorize"); } catch(e) {}</script></li>
+    </ul></div>
+</div></div><script type="text/javascript">
+try{ runCore.init_tristate("mainmenu"); }catch(e){}
+try{ runCore.initTopBar('v4',true); }catch(e){}
+try { if(typeof(runCore.modal_geotarget)=="function") { $("#geotarget_top_selector").click(function(e){ e.preventDefault(); runCore.modal_geotarget($(this).attr("data-geocode"));}); } } catch(e) {}
+</script><!--/Service -->
+<div class="b-header"><div class="b-header-i"><!-- Logo [begin] --><div class="logo"><a href="https://news.tut.by/" class="name-resource">НОВОСТИ</a><a href="https://www.tut.by/"><img src="https://img.tyt.by/i/by5/news/logo@1x.png" srcset="https://img.tyt.by/i/by5/news/logo@2x.png 2x" title="Белорусский портал TUT.BY" alt="Белорусский портал TUT.BY" /></a></div><!-- Logo [end] --><div class="b-catserv"><ul class="button_list"><li><a class="button flat-white" href="https://www.tut.by/unews/?utm_source=news.tut.by&utm_medium=top_button&utm_campaign=editorial_link" rel="nofollow">Сообщить новость</a></li></ul></div><form id="search" method="post" action="https://www.tut.by/search/" accept-charset="utf-8" class="main-search"><div class="b-search"><div class="hold"><div class="search-controls">
+<input class="ip-reset" type="reset" value="" />
+<select id="resource_search" class="c_sl" name="url" style="opacity: 0; height: 28px;"><option data-hint="Поиск" value="https://search.tut.by/?status=1&amp;ru=1&amp;encoding=1&amp;page=0&amp;how=rlv&amp;query=">Интернет</option><option data-hint="Поиск в Байнете" value="https://search.tut.by/?status=1&amp;encoding=1&amp;page=0&amp;how=rlv&amp;query=">Байнет</option><option selected="selected" data-hint="Поиск" value="https://news.tut.by/search/?str=">Новости TUT.BY</option><option data-hint="Введите адрес" value="https://maps.tut.by/?s_str=">Адреса</option><option data-hint="Введите специальность" value="https://jobs.tut.by/search/vacancy?area=16&amp;text=">Вакансии</option><option data-hint="Искать по каталогу компаний" value="https://tam.by/search/?str=">Каталог компаний TAM.BY</option><option data-hint="Введите название товара" value="https://kupi.tut.by/search/?str=">Магазины</option><option data-hint="Поиск по картинкам" value="https://search.tut.by/?is=1&amp;page=0&amp;ru=1&amp;isize=&amp;query=">Картинки</option><option data-hint="Поиск на форумах" value="https://talks.by/search.php?do=process&amp;childforums=1&amp;contenttypeid=1&amp;order=descending&amp;showposts=1&amp;query=">Форумы</option></select>
+<input class="button big flat-white" type="submit" value="Найти"/></div><div class="ip-holder"><div>
+<input type="text"  name="str" value="" class="i-p" autocomplete="off" placeholder="Поиск"/></div></div></div></div></form><form id="external-search" method="get" style="visibility: hidden;"></form>
+<script type="text/javascript">
+if(runCore && typeof(runCore.init_search)=="function") {
+    try { runCore.init_search(); } catch(e){};
+} else {
+    $("#search").submit(function(){ return this["str"].value.replace(/(^\s+|\s+$)/g).length>0; });
+    try{runCore.setSearchReset($('.b-search'));}catch(e){}
+    try{runCore.initCustomSelectBox();}catch(e){}
+}
+$("#search").submit(function(e){try{ ga('send', 'event', 'search', 'dsk'); } catch(e){} return true;});
+</script></div></div>
+<div class="b-nav" data-navigation><div class="b-nav-i"><ul class="b-nav-list">
+    <li data-group="rubric"><a href="https://news.tut.by/daynews/">Главное</a></li><li data-group="rubric"><a href="https://news.tut.by/geonews/minsk/">Минск</a></li><li data-group="rubric"><a href="https://news.tut.by/top5news/">Эксклюзив</a></li><li data-group="rubric"><a href="https://news.tut.by/economics/">Деньги и власть</a></li><li data-group="rubric"><a href="https://news.tut.by/society/">Общество</a></li><li data-group="rubric"><a href="https://news.tut.by/world/">В мире</a></li><li data-group="rubric"><a href="https://news.tut.by/culture/">Кругозор</a></li><li data-group="rubric"><a href="https://news.tut.by/accidents/">Происшествия</a></li><li data-group="rubric"><a href="https://news.tut.by/finance/">Финансы</a></li><li data-group="rubric"><a href="https://news.tut.by/realty/">Недвижимость</a></li><li data-group="rubric"><a href="https://news.tut.by/sport/">Спорт</a></li><li data-group="rubric"><a href="https://news.tut.by/auto/">Авто</a></li><li data-group="rubric"><a href="https://news.tut.by/lady/">Леди</a></li><li data-group="rubric"><a href="https://news.tut.by/it/">42</a></li><li data-group="rubric"><a href="https://news.tut.by/afisha/">Афиша</a></li><li data-group="rubric"><a href="https://news.tut.by/go/">GO</a></li><li data-group="rubric"><a href="https://news.tut.by/popcorn/">Попкорн</a></li><li data-group="rubric"><a href="https://news.tut.by/rebenokby/">Ребёнок.BY</a></li><li data-group="rubric"><a href="https://news.tut.by/probusiness/">Про бизнес.</a></li><li data-group="rubric"><a href="https://news.tut.by/tamby/">TAM.BY</a></li><li data-group="rubric"><a href="https://news.tut.by/press/">Новости компаний</a></li>
+    <li id="nav-more" class="impl-fixed" data-popup="nav-more" data-navigation-show-more><a data-target-popup="nav-more">Ещё</a><div class="b-nav-popup"><ul class="b-nav-popup-list"></ul></div></li>
+    <li class="b-nav-delimiter impl-fixed"><span class="delimiter"></span></li>
+    <li class="impl-fixed" data-group="projects"><a href="/projects/" title="Программы и проекты">Программы и проекты</a></li>
+    <li id="archive" data-popup="news-archive" class="impl-fixed" data-group="archive"><a title="Архив новостей"  data-target-popup="news-archive" style="cursor: pointer;" data-href="https://news.tut.by/archive/">Архив новостей</a><div class="b-calendar b-nav-popup"><form action="https://news.tut.by/" method="get" name="news_archive"><div class="b-calendar-row half">
+    <div class="choise-wrapper"><select id="as-month" name="m" class="c_sl">
+<option value="1" selected="selected">январь</option>
+<option value="2">февраль</option>
+<option value="3">март</option>
+<option value="4">апрель</option>
+<option value="5">май</option>
+<option value="6">июнь</option>
+<option value="7">июль</option>
+<option value="8">август</option>
+<option value="9">сентябрь</option>
+<option value="10">октябрь</option>
+<option value="11">ноябрь</option>
+<option value="12">декабрь</option>
+</select></div>
+    <div class="choise-wrapper"><select id="as-year" name="y" class="c_sl"><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011">2011</option><option value="2012">2012</option><option value="2013">2013</option><option value="2014">2014</option><option value="2015">2015</option><option value="2016">2016</option><option value="2017">2017</option><option value="2018">2018</option><option value="2019">2019</option><option value="2020" selected="selected">2020</option></select></div>
+</div><div class="b-calendar-row"><div class="choise-wrapper"><table class="ac-calendar">
+    <thead><tr><th>ПН</th><th>ВТ</th><th>СР</th><th>ЧТ</th><th>ПТ</th><th>СБ</th><th>ВС</th></tr></thead>
+    <tbody><tr><td class="next-month"><a href="https://news.tut.by/archive/30.12.2019.html" rel="nofollow">30</a></td><td class="next-month"><a href="https://news.tut.by/archive/31.12.2019.html" rel="nofollow">31</a></td><td><a href="https://news.tut.by/archive/01.01.2020.html" rel="nofollow">1</a></td><td><a href="https://news.tut.by/archive/02.01.2020.html" rel="nofollow">2</a></td><td><a href="https://news.tut.by/archive/03.01.2020.html" rel="nofollow">3</a></td><td><a href="https://news.tut.by/archive/04.01.2020.html" rel="nofollow">4</a></td><td><a href="https://news.tut.by/archive/05.01.2020.html" rel="nofollow">5</a></td></tr><tr><td><a href="https://news.tut.by/archive/06.01.2020.html" rel="nofollow">6</a></td><td><a href="https://news.tut.by/archive/07.01.2020.html" rel="nofollow">7</a></td><td><a href="https://news.tut.by/archive/08.01.2020.html" rel="nofollow">8</a></td><td class="today"><a href="https://news.tut.by/archive/09.01.2020.html" rel="nofollow">9</a></td><td><span>10</span></td><td><span>11</span></td><td><span>12</span></td></tr><tr><td><span>13</span></td><td><span>14</span></td><td><span>15</span></td><td><span>16</span></td><td><span>17</span></td><td><span>18</span></td><td><span>19</span></td></tr><tr><td><span>20</span></td><td><span>21</span></td><td><span>22</span></td><td><span>23</span></td><td><span>24</span></td><td><span>25</span></td><td><span>26</span></td></tr><tr><td><span>27</span></td><td><span>28</span></td><td><span>29</span></td><td><span>30</span></td><td><span>31</span></td><td class="next-month"><span>1</span></td><td class="next-month"><span>2</span></td></tr></tbody>
+</table></div></div></form></div><script>runCore.init_custom_calendar("#archive").on({
+    show: function(e,popup) {
+        var ctx=$(popup.sContext), el1=ctx.find('div.b-calendar'), el2=$('div.b-nav ul.b-nav-list');
+        ctx.addClass('open');
+        el1.css('margin-left','');
+        el1.css('margin-left',el2.offset().left+el2.width()-el1.width()-el1.offset().left);
+    },
+    hide: function(e,popup) { $(popup.sContext).removeClass('open'); }
+});runCore.initCustomSelectBox('#archive select.c_sl');</script></li>
+</ul></div></div><script>
+(function(){
+    var ctx=$('ul.b-nav-list'), W=ctx.width(), dst=$('ul.b-nav-popup-list');
+    ctx.children('li.impl-fixed,li.active').each(function(){
+        W-=$(this).outerWidth(true);
+    });
+    ctx.children('li').not('li.impl-fixed,li.active').each(function(){
+        var el=$(this), w=el.outerWidth(true);
+        if(W>w) {
+            W-=w;
+        } else {
+            el.appendTo(dst);
+        }
+    });
+    runCore.init_custom_popup("#nav-more").on({
+        show: function(e,popup) { $(popup.sContext).addClass('open'); },
+        hide: function(e,popup) { $(popup.sContext).removeClass('open'); }
+    });
+    runCore.navigation_set_active();
+})();
+</script>
+<div class="outer "><div class="inner grid">
+    <div id="content-band" class="col-2"><div class="col-3"><div class="col-i">
+    <div class="b-widget impl-popular"><div class="b-rubric"><div class="rubric-title"><a href="https://news.tut.by/?sort=reads" class="rubric-title__link"><span>СЕЙЧАС ЧИТАЮТ</span> <span>РЕКОМЕНДУЕМ</span></a></div></div><div class="news-section"><div class="news-entry small pic time ni"><a href="https://news.tut.by/economics/667961.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/balay/01/e/sud_narkotorgovlya_20160229_tutby_bas_phsl_dsc0392.jpg" width="279" height="186" alt="Фото: Сергей Балай, TUT.BY" class="entry__img _image"></span></a><a href="https://news.tut.by/economics/667961.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Накипело. Родственники осужденных по&nbsp;экономическим статьям объединились и&nbsp;обратились в&nbsp;АП</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">70</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time ni"><a href="https://news.tut.by/economics/667845.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/politika/08/8/podpisanie_vizovogo_soglasheniya_v_bryussele_2.jpg" width="279" height="186" alt="Фото: МИД Беларуси" class="entry__img _image"></span></a><a href="https://news.tut.by/economics/667845.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Беларусь и&nbsp;ЕС подписали соглашение об&nbsp;упрощении визового режима, &laquo;шенгену&raquo; за&nbsp;35&nbsp;евро быть. Но&nbsp;в&nbsp;июне</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">181</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time ni"><a href="https://news.tut.by/society/667976.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/regiony/08/0/647cc59169fcc340d8361b136e3e6766695ad050.jpg" width="279" height="186" alt="Фото: МВД" class="entry__img _image"></span></a><a href="https://news.tut.by/society/667976.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">В&nbsp;Миорском районе труп гостя несколько дней просидел за&nbsp;праздничным столом. Пьянке это не&nbsp;мешало</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">27</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time niv"><a href="https://news.tut.by/popcorn/667972.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/popkorn/03/0/timati-232.jpg" width="279" height="186" alt="Тимати не узнать: он сбрил бороду, проиграв дочери" class="entry__img _image"></span></a><a href="https://news.tut.by/popcorn/667972.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Тимати не&nbsp;узнать: он&nbsp;сбрил бороду, проиграв дочери</span><span class="entry-meta"><span class="entry-type niv"></span><span class="entry-count">9</span></span></span></a><span class="entry-icon"></span></div></div></div><script>
+(function(el){
+    if(el.length>1) {
+        $(el.get(1)).find('a[href][data-utm]').each(function(){
+            var a=$(this);
+            a.attr('data-utm',a.attr('data-utm').replace('utm_medium=news-right-block','utm_medium=floating-news-right-block'));
+        });
+    }
+    runCore.init_tracking(el);
+    runCore.init_titlealts('.impl-popular',"https:\/\/www.tut.by\/");
+})($('.impl-popular'));
+</script>
+    <div class="impl-vscroll-container" style="max-height: 1200px;"><div data-widget="vscroll"><div  class="b-prmplace" data-x-params=""><span class="b-prmplace-head" ><a href="https://tutby.com/advert/order/?utm_source=news.tut.by&utm_medium=link-above_banner&utm_campaign=tut.by" target="_blank"></a></span><span class="b-prmplace-line" ></span><div class="b-prmplace-media"><div class="b-prmplace-content">
+<!--Площадка: news.tut.by / * / *--><!--Тип баннера: 240x400_1--><div id="adfox_151058197011988172"></div>
+<script>
+ window.Ya.adfoxCode.create({
+ ownerId: 246762,
+ containerId: 'adfox_151058197011988172',
+ params: {
+ pp: 'g',
+ ps: 'coqz',
+ p2: 'ftae',
+ puid1: '15800',
+ puid2: '9',
+puid4: '2407:ex6024:ex6340',
+puid5: '0'
+ }
+ });
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/5/49710/img/157857149/447_advertising.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/5/49710/js/157857149/447_advertising.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div></div><script>try {runCore.init_x_place();} catch(e){}</script></div>
+<div data-uid="0f40dc70e98b9e5a4411a2616e3a4816" data-cid="787e8d46b57c421c9e2de519d923c102" data-cfg="eyJ3Ijo0MjAsImgiOjI4MH0=" data-mode="desktop_adblock" data-count="3"></div></div></div>
+    <div class="impl-vscroll-container"><div class="b-widget impl-popular"><div class="b-rubric"><div class="rubric-title"><a href="https://news.tut.by/?sort=reads" class="rubric-title__link"><span>СЕЙЧАС ЧИТАЮТ</span> <span>РЕКОМЕНДУЕМ</span></a></div></div><div class="news-section"><div class="news-entry small pic time ni"><a href="https://news.tut.by/economics/667961.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/balay/01/e/sud_narkotorgovlya_20160229_tutby_bas_phsl_dsc0392.jpg" width="279" height="186" alt="Фото: Сергей Балай, TUT.BY" class="entry__img _image"></span></a><a href="https://news.tut.by/economics/667961.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Накипело. Родственники осужденных по&nbsp;экономическим статьям объединились и&nbsp;обратились в&nbsp;АП</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">70</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time ni"><a href="https://news.tut.by/economics/667845.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/politika/08/8/podpisanie_vizovogo_soglasheniya_v_bryussele_2.jpg" width="279" height="186" alt="Фото: МИД Беларуси" class="entry__img _image"></span></a><a href="https://news.tut.by/economics/667845.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Беларусь и&nbsp;ЕС подписали соглашение об&nbsp;упрощении визового режима, &laquo;шенгену&raquo; за&nbsp;35&nbsp;евро быть. Но&nbsp;в&nbsp;июне</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">181</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time ni"><a href="https://news.tut.by/society/667976.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/regiony/08/0/647cc59169fcc340d8361b136e3e6766695ad050.jpg" width="279" height="186" alt="Фото: МВД" class="entry__img _image"></span></a><a href="https://news.tut.by/society/667976.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">В&nbsp;Миорском районе труп гостя несколько дней просидел за&nbsp;праздничным столом. Пьянке это не&nbsp;мешало</span><span class="entry-meta"><span class="entry-type ni"></span><span class="entry-count">27</span></span></span></a><span class="entry-icon"></span></div><div class="news-entry small pic time niv"><a href="https://news.tut.by/popcorn/667972.html" class="entry__link" data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-pic"><img src="https://img.tyt.by/279x186c/n/popkorn/03/0/timati-232.jpg" width="279" height="186" alt="Тимати не узнать: он сбрил бороду, проиграв дочери" class="entry__img _image"></span></a><a href="https://news.tut.by/popcorn/667972.html" class="entry__link"  data-utm="utm_source={{hostname}}&utm_medium=news-right-block&utm_campaign=popular-news"><span class="entry-cnt"><span class="entry-head _title">Тимати не&nbsp;узнать: он&nbsp;сбрил бороду, проиграв дочери</span><span class="entry-meta"><span class="entry-type niv"></span><span class="entry-count">9</span></span></span></a><span class="entry-icon"></span></div></div></div><script>
+(function(el){
+    if(el.length>1) {
+        $(el.get(1)).find('a[href][data-utm]').each(function(){
+            var a=$(this);
+            a.attr('data-utm',a.attr('data-utm').replace('utm_medium=news-right-block','utm_medium=floating-news-right-block'));
+        });
+    }
+    runCore.init_tracking(el);
+    runCore.init_titlealts('.impl-popular',"https:\/\/www.tut.by\/");
+})($('.impl-popular'));
+</script><div data-widget="vscroll"><div class="b-prmplace"><span class="b-prmplace-head"><a href="https://tutby.com/advert/order/?utm_source=news.tut.by&utm_medium=link-above_banner&utm_campaign=tut.by" target="_blank"></a></span><span class="b-prmplace-line"></span><div class="b-prmplace-media"><div class="b-prmplace-content">
+<script src='https://www.googletagservices.com/tag/js/gpt.js'>
+  googletag.pubads().definePassback('/83130649/news_sticky_second', [[300, 250], [240, 400]]).display();
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/999/46731/img/157857149/7263.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/999/46731/js/157857149/7263.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div></div></div>
+<div data-uid="0f40dc70e98b9e5a4411a2616e3a4816" data-cid="3cedce58ff887d9d19531ab4d6a5215f" data-mode="sidebar" data-count="5"></div></div></div>
+</div></div><div class="col-c"><div class="col-i"><div id="utm_article_block" class="col-w" itemscope itemtype="http://schema.org/NewsArticle">
+    <link href="https://news.tut.by/economics/667987.html" itemprop="url" /><link href="https://img.tyt.by/n/reuters/00/4/dengi_valyuta_dollar_rtr4dt04.jpg" itemprop="image" /><div style="display: none;" itemprop="publisher" itemscope="itemscope" itemtype="https://schema.org/Organization"><div style="display: none;" itemprop="logo" itemscope="itemscope" itemtype="https://schema.org/ImageObject"><meta itemprop="url" content="https://img.tyt.by/i/amp/news_schema_logo.png"><meta itemprop="width" content="438"><meta itemprop="height" content="46"></div><meta itemprop="name" content="TUT.BY"><meta itemprop="url" content="https://www.tut.by/"></div><link itemprop="mainEntityOfPage" href="https://news.tut.by/economics/667987.html" />
+    <div data-role="share-block" data-view="desktop-top-float" data-banner="" data-content="odnoklassniki:3,vkontakte:5,facebook:2,viber:6,telegram:0" data-href="https://news.tut.by/economics/667987.html" data-print="https://news.tut.by/economics/667987_print.html" title="На торгах 9 января доллар и российский рубль подорожали"></div>
+<div class="b-label"><a href="https://news.tut.by/daynews/" itemprop="articleSection">Новость дня</a></div>
+
+    <div class="b-article">
+        <div class="m_header"><h1 itemprop="headline">На торгах 9 января доллар и российский рубль подорожали</h1>&nbsp;<span class="b-comment_badge"><span><a href="https://talks.by/showthread.php?t=14438071" target="_blank" title="9 комментариев" itemprop="discussionUrl"><span itemprop="commentCount">9</span></a></span></span></div>
+        <div data-role="share-block" data-view="desktop-top" data-content="odnoklassniki:3,vkontakte:5,facebook:2,viber:6,telegram:0|twitter:0,print:0" data-href="https://news.tut.by/economics/667987.html" data-print="https://news.tut.by/economics/667987_print.html" title="На торгах 9 января доллар и российский рубль подорожали"></div><p class="b-article-details"><a href="https://news.tut.by/archive/09.01.2020.html"><time itemprop="datePublished" datetime="2020-01-09T13:27:00+03:00">9 января 2020 в 13:27</time></a><br/><span itemprop="author" itemscope itemtype="http://schema.org/Organization"><a href="https://news.tut.by/author/490~613.html" target="_self" itemprop="sameAs"><span itemprop="name">TUT.BY</span></a></span></p>
+        <div id="article_body" itemprop="articleBody" class=""><p><strong>На&nbsp;Белорусской валютно-фондовой бирже 9 января прошли очередные торги валютами.</strong></p>
+
+<p>Доллар укрепился на BYN 0,0021 &mdash; до 2,1159&nbsp;рубля.</p>
+
+<p>Евро подешевел на&nbsp;BYN 0,0021&nbsp;&mdash; до&nbsp;2,3526 рубля.</p>
+
+<p>Российский&nbsp;рубль вырос&nbsp;на&nbsp;BYN 0,0387&nbsp;&mdash; до&nbsp;3,4592&nbsp;белорусского рубля за&nbsp;100 российских рублей.</p>
+
+<p>В&nbsp;курсообразовании Нацбанк Беларуси использует режим плавающего курса.</p>
+
+<p><strong><a href="https://finance.tut.by/kurs/?from=oz" target="_blank">Все курсы валют в&nbsp;банках</a> (постоянно обновляются)</strong></p>
+
+<div class="desktop">
+<blockquote>
+<table style="width:100%;">
+    <tbody>
+        <tr>
+            <td><strong>Курсы валют в&nbsp;вашем телефоне:</strong></td>
+            <td><span contenteditable="false" tabindex="-1"><a data-widget="image" href="https://play.google.com/store/apps/details?id=by.tut.finance.android&amp;referrer=mat_click_id%3D3ed73bae718a370e44f75598ef93366e-20181129-177242%26utm_campaign%3DInternal%26utm_content%3DInternal%26utm_medium%3DInternal%26utm_source%3DTUT.BY%2BLanding%26utm_term%3DInternal" target="_blank"><img alt="" border="0" data-zoom="0" height="38" hspace="5" src="https://img.tyt.by/p/06/10/googleplayapr.png" title="" /></a></span> <span contenteditable="false" tabindex="-1"><a data-widget="image" href="https://itunes.apple.com/by/app/finansy-tut.by/id706044260?mt=8" target="_blank"><img alt="" border="0" data-zoom="0" height="41" hspace="5" src="https://img.tyt.by/p/03/c/logo_apple_270115.png" title="" /></a></span></td>
+        </tr>
+    </tbody>
+</table>
+</blockquote>
+</div>
+
+<p>​</p>
+<!--POLL--></div>
+    </div>
+    
+<div id="adfox_156991738875883426"></div>
+<script>
+ window.Ya.adfoxCode.create({
+ ownerId: 246762,
+ containerId: 'adfox_156991738875883426',
+ params: {
+ p1: 'cdptz',
+ p2: 'ggvk',
+ puid1: '15800',
+ puid2: '',
+ puid3: '',
+ puid4: '',
+ puid5: '0',
+ puid17: '',
+ slide: true,
+ visibleAfterInit: false,
+ insertAfter: 'undefined',
+ insertPosition: '0',
+ stick: false,
+ stickTo: 'auto',
+ stickColorScheme: 'light'
+ }
+ });
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/1197/50176/img/157857149/2213_advertising.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/1197/50176/js/157857149/2213_advertising.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div><div id="widget-bottom-relevant-news" class="b-related"><div class="related-t">Новости по теме</div><p><a href="https://news.tut.by/economics/667823.html" data-utm="utm_source=news.tut.by&utm_medium=news-bottom-block&utm_campaign=relevant_news" target="_self">На&nbsp;торгах 8&nbsp;января доллар подорожал</a></p><p><a href="https://news.tut.by/economics/667523.html" data-utm="utm_source=news.tut.by&utm_medium=news-bottom-block&utm_campaign=relevant_news" target="_self">На&nbsp;торгах 4&nbsp;января евро подорожал</a></p><p><a href="https://news.tut.by/economics/667346.html" data-utm="utm_source=news.tut.by&utm_medium=news-bottom-block&utm_campaign=relevant_news" target="_self">На&nbsp;торгах 3&nbsp;января доллар скромно подрос</a></p></div><script>runCore.init_tracking('widget-bottom-related-news');</script>
+
+    <div id="utm_article_block2" class="b-article-info">
+        <p class="note">Если вы заметили ошибку в тексте новости, пожалуйста, выделите её и нажмите Ctrl+Enter</p>
+        <ul class="b-article-info-tags"><li class="tag-taxonomy-topic">Темы:&nbsp;<a href="https://news.tut.by/tag/2407-rezultaty-torgov-bvfb.html" class="tag-2407" data-utm="utm_source=news-bottom-block&utm_medium=news-tags&utm_campaign=news-tags">результаты торгов БВФБ</a>&#44; <a href="https://news.tut.by/tag/ex6024-belarus-rossiya.html" class="tag-ex6024" data-utm="utm_source=news-bottom-block&utm_medium=news-tags&utm_campaign=news-tags">Беларусь -  Россия</a>&#44; <a href="https://news.tut.by/tag/ex6340-belorusskaya-valyutno-fondovaya-birzha.html" class="tag-ex6340" data-utm="utm_source=news-bottom-block&utm_medium=news-tags&utm_campaign=news-tags">Белорусская валютно-фондовая биржа</a></li></ul>
+<div data-role="share-block" data-view="desktop-bottom" data-content="odnoklassniki:3,vkontakte:5,facebook:2,viber:6,telegram:0|twitter:0,print:0" data-href="https://news.tut.by/economics/667987.html" title="На торгах 9 января доллар и российский рубль подорожали" data-print="https://news.tut.by/economics/667987_print.html"></div>
+        <div id="article_rating"></div>
+        <div data-uid="0f40dc70e98b9e5a4411a2616e3a4816" data-cid="8336101cf4d7bc2b8f807076ac0ee3a1" data-utm="utm_campaign=recirculation_mail&amp;utm_medium=bottom_news&amp;utm_source=news.tut.by"><ins id="m0061358_C"></ins></div>
+        <div class="b-comments"><a href="https://talks.by/showthread.php?t=14438071" target="_blank" class="b-add_comments" style="text-transform: lowercase;" rel="nofollow"><span class="num">9 комментариев</span>,&nbsp;Перейти к обсуждению статьи на форуме</a></div>
+
+
+        <ins id="m0060417"></ins>
+    </div><script src="data:text/javascript;base64,d2luZG93LmFkZG9uXzE5ODc4MDA1ODI9KGZ1bmN0aW9uKGRhdGEpeyByZXR1cm4gZnVuY3Rpb24oc2NvcGUscnVicmljX2lkLGFydGljbGVfaWQsaXNfZ2VvKSB7cnVuQ29yZS5pbml0X2FydGljbGVfYWRkb24oc2NvcGUsYXJ0aWNsZV9pZCxydWJyaWNfaWQsaXNfZ2VvLGRhdGEpO307fSkoW3siaWQiOjY2Mzg2MiwiZmlyc3QiOmZhbHNlLCJnZW8iOmZhbHNlLCJ0aXRsZSI6Ilx1MDQxMlx1MDBhMFx1MDQxY1x1MDQzOFx1MDQzZFx1MDQ0MVx1MDQzYVx1MDQzNSBcdTA0M2ZcdTA0M2VcdTA0NDFcdTA0NDJcdTA0NDBcdTA0M2VcdTA0NGZcdTA0NDIgXHUwNDM2XHUwNDM4XHUwNDNiXHUwNDNlXHUwNDM5IFx1MDQzYVx1MDQzZVx1MDQzY1x1MDQzZlx1MDQzYlx1MDQzNVx1MDQzYVx1MDQ0MSBcdTA0MzJcdTAwYTBcdTA0MzVcdTA0MzRcdTA0MzhcdTA0M2RcdTA0M2VcdTA0M2MgXHUwNDQxXHUwNDQyXHUwNDM4XHUwNDNiXHUwNDM1IFx1MDQzOFx1MDBhMFx1MDQ0MVx1MDBhMFx1MDQ0MVx1MDQzZVx1MDQzMVx1MDQ0MVx1MDQ0Mlx1MDQzMlx1MDQzNVx1MDQzZFx1MDQzZFx1MDQzZVx1MDQzOSBcdTA0MzhcdTA0M2RcdTA0NDRcdTA0NDBcdTA0MzBcdTA0NDFcdTA0NDJcdTA0NDBcdTA0NDNcdTA0M2FcdTA0NDJcdTA0NDNcdTA0NDBcdTA0M2VcdTA0MzkiLCJsaW5rIjoiaHR0cHM6XC9cL25ld3MudHV0LmJ5XC9maW5hbmNlXC82NjM4NjIuaHRtbCIsImltYWdlIjpbImh0dHBzOlwvXC9pbWcudHl0LmJ5XC8zNjB4MjQwY1wvcFwvMDRcL2NcL3RpdHVsbmF5YV9heXJvbl85LjAxLmpwZyJdLCJ0eXBlIjoibmkiLCJjb21tZW50cyI6MCwidGFyZ2V0Ijp7IjMxMCI6ImZpbmFuY2UiLCIyMTIiOiJwcmljZXMifX0seyJpZCI6NjY3ODM3LCJmaXJzdCI6ZmFsc2UsImdlbyI6ZmFsc2UsInRpdGxlIjoiXHUwNDEyXHUwNDRiXHUwNDMxXHUwNDM4XHUwNDQwXHUwNDMwXHUwNDM1XHUwNDNjIFx1MDQzYVx1MDQ0M1x1MDQzNFx1MDQzMCBcdTA0M2ZcdTA0M2VcdTA0MzlcdTA0NDJcdTA0MzguIFx1MDQyMlx1MDQzZVx1MDQzZi0xMCBcdTA0M2ZcdTA0NDBcdTA0MzVcdTA0MzRcdTA0M2JcdTA0M2VcdTA0MzZcdTA0MzVcdTA0M2RcdTA0MzhcdTA0MzkgXHUwNDNlXHUwNDQyXHUwMGEwXHUwNDM3XHUwNDMwXHUwNDMyXHUwNDM1XHUwNDM0XHUwNDM1XHUwNDNkXHUwNDM4XHUwNDM5IFx1MDQxY1x1MDQzOFx1MDQzZFx1MDQ0MVx1MDQzYVx1MDQzMCEiLCJsaW5rIjoiaHR0cHM6XC9cL25ld3MudHV0LmJ5XC9hZmlzaGFcLzY2NzgzNy5odG1sIiwiaW1hZ2UiOlsiaHR0cHM6XC9cL2ltZy50eXQuYnlcLzM2MHgyNDBjXC9wXC8wZVwvMlwvMjAyMF8xNC5qcGciXSwidHlwZSI6Im5pIiwiY29tbWVudHMiOjAsInRhcmdldCI6eyI0OTEiOiJhZmlzaGEiLCIzMDMiOiJjdWx0dXJlIn19LHsiaWQiOjY2Nzg2OCwiZmlyc3QiOmZhbHNlLCJnZW8iOmZhbHNlLCJ0aXRsZSI6Ilx1MDQyMVx1MDQzZlx1MDQzNVx1MDQ0Nlx1MDQzOFx1MDQzMFx1MDQzYlx1MDQ0Y1x1MDQzZFx1MDQzZVx1MDQzNSBcdTA0NDZcdTA0MzVcdTA0M2RcdTA0M2VcdTA0MzJcdTA0M2VcdTA0MzUgXHUwNDNmXHUwNDQwXHUwNDM1XHUwNDM0XHUwNDNiXHUwNDNlXHUwNDM2XHUwNDM1XHUwNDNkXHUwNDM4XHUwNDM1IFx1MDQzZVx1MDQ0Mlx1MDBhMExBREEgXHUwNDNkXHUwNDMwXHUwMGEwXHUwNDIxXHUwNDM1XHUwNDQwXHUwNDNlXHUwNDMyXHUwNDMwLCAxLiBcdTA0MjJcdTA0M2VcdTA0M2JcdTA0NGNcdTA0M2FcdTA0M2UgXHUwNDMyXHUwMGEwXHUwNDRmXHUwNDNkXHUwNDMyXHUwNDMwXHUwNDQwXHUwNDM1IiwibGluayI6Imh0dHBzOlwvXC9uZXdzLnR1dC5ieVwvYXV0b1wvNjY3ODY4Lmh0bWwiLCJpbWFnZSI6WyJodHRwczpcL1wvaW1nLnR5dC5ieVwvMzYweDI0MGNcL3BcLzAyXC81XC9tbF8wOTAxMjAyMF8zXy5qcGciXSwidHlwZSI6Im5pIiwiY29tbWVudHMiOjAsInRhcmdldCI6eyI3IjoiYXV0byIsIjYwOSI6ImF1dG9uZXdzIn19LHsiaWQiOjY2Nzg3NiwiZmlyc3QiOmZhbHNlLCJnZW8iOmZhbHNlLCJ0aXRsZSI6IjUwIFx1MDQzYVx1MDQzYlx1MDQzMFx1MDQ0MVx1MDQ0MVx1MDQzZFx1MDQ0Ylx1MDQ0NSBcdTA0MzdcdTA0MzhcdTA0M2NcdTA0M2RcdTA0MzhcdTA0NDUgXHUwNDNmXHUwNDMwXHUwNDNiXHUwNDRjXHUwNDQyXHUwNDNlIFx1MDQzZlx1MDQzZVx1MDBhMFx1MDQ0MVx1MDQ0M1x1MDQzZlx1MDQzNVx1MDQ0MFx1MDQ0Nlx1MDQzNVx1MDQzZFx1MDQzMFx1MDQzYyIsImxpbmsiOiJodHRwczpcL1wvbmV3cy50dXQuYnlcL3NvY2lldHlcLzY2Nzg3Ni5odG1sIiwiaW1hZ2UiOlsiaHR0cHM6XC9cL2ltZy50eXQuYnlcLzM2MHgyNDBjXC9wXC8wMlwvN1wvdGl0dWxuYXlhLWdvdHRpLTkuanBnIl0sInR5cGUiOiJuaSIsImNvbW1lbnRzIjowLCJ0YXJnZXQiOnsiMTEiOiJzb2NpZXR5In19LHsiaWQiOjY2Nzg4NCwiZmlyc3QiOmZhbHNlLCJnZW8iOmZhbHNlLCJ0aXRsZSI6Ilx1MDQxYVx1MDQzMlx1MDQzMFx1MDQ0MFx1MDQ0Mlx1MDQzOFx1MDQ0MFx1MDQzMCBcdTA0M2VcdTA0NDJcdTAwYTAyNSBcdTA0NDBcdTA0NDNcdTA0MzFcdTA0M2JcdTA0MzVcdTA0MzkgXHUwNDMyXHUwMGEwXHUwNDM0XHUwNDM1XHUwNDNkXHUwNDRjOiBcdTA0MzJcdTA0M2VcdTA0MzdcdTA0M2JcdTA0MzUgXHUwNDFjXHUwNDM4XHUwNDNkXHUwNDQxXHUwNDNhXHUwNDMwIFx1MDQzZlx1MDQ0MFx1MDQzZVx1MDQzNFx1MDQzMFx1MDQ0ZVx1MDQ0MiBcdTA0MzZcdTA0MzhcdTA0M2JcdTA0NGNcdTA0MzUgXHUwNDNkXHUwNDMwXHUwMGEwXHUwNDNkXHUwNDM1XHUwNDNlXHUwNDMxXHUwNDRiXHUwNDQ3XHUwNDNkXHUwNDRiXHUwNDQ1IFx1MDQ0M1x1MDQ0MVx1MDQzYlx1MDQzZVx1MDQzMlx1MDQzOFx1MDQ0Zlx1MDQ0NSIsImxpbmsiOiJodHRwczpcL1wvbmV3cy50dXQuYnlcL3JlYWx0eVwvNjY3ODg0Lmh0bWwiLCJpbWFnZSI6WyJodHRwczpcL1wvaW1nLnR5dC5ieVwvMzYweDI0MGNcL3BcLzA0XC8xXC90aXR1bG5heWEtMS11cGl0X2t2YXJ0aXJ1X3Zfbm92b3lfYm9yb3ZveS5qcGciXSwidHlwZSI6Im5pIiwiY29tbWVudHMiOjAsInRhcmdldCI6eyI0ODYiOiJyZWFsdHkiLCI0NTYiOiJmcm9tLWJ1aWxkZXIifX0seyJpZCI6NjY3OTIzLCJmaXJzdCI6dHJ1ZSwiZ2VvIjpmYWxzZSwidGl0bGUiOiJcdTA0MTRcdTA0M2VcdTA0M2MgXHUwNDM4XHUwNDM3XHUwMGEwXHUwNDMyXHUwNDNlXHUwNDQxXHUwNDQyXHUwNDNlXHUwNDQ3XHUwNDNkXHUwNDNlXHUwNDM5IFx1MDQ0MVx1MDQzYVx1MDQzMFx1MDQzN1x1MDQzYVx1MDQzOCEgXHUwNDEyXHUwMGEwXHUwNDFjXHUwNDM4XHUwNDNkXHUwNDQxXHUwNDNhXHUwNDM1IFx1MDQ0MVx1MDQzYVx1MDQzZVx1MDQ0MFx1MDQzZSBcdTA0NDFcdTA0NDJcdTA0MzBcdTA0NDBcdTA0NDIgXHUwNDNmXHUwNDQwXHUwNDNlXHUwNDM0XHUwNDMwXHUwNDM2IFx1MDQzYVx1MDQzMlx1MDQzMFx1MDQ0MFx1MDQ0Mlx1MDQzOFx1MDQ0MCBcdTA0MzJcdTAwYTBcdTA0M2RcdTA0MzVcdTA0M2VcdTA0MzFcdTA0NGJcdTA0NDdcdTA0M2RcdTA0M2VcdTA0MzkgXHUwNDNkXHUwNDNlXHUwNDMyXHUwNDNlXHUwNDQxXHUwNDQyXHUwNDQwXHUwNDNlXHUwNDM5XHUwNDNhXHUwNDM1IiwibGluayI6Imh0dHBzOlwvXC9uZXdzLnR1dC5ieVwvcmVhbHR5XC82Njc5MjMuaHRtbCIsImltYWdlIjpbImh0dHBzOlwvXC9pbWcudHl0LmJ5XC8zNjB4MjQwY1wvcFwvMDFcLzEwXC96b21la3MwOTAxMjBfOV8uanBnIl0sInR5cGUiOiJuaSIsImNvbW1lbnRzIjowLCJ0YXJnZXQiOnsiNDg2IjoicmVhbHR5IiwiNDU2IjoiZnJvbS1idWlsZGVyIn19XSk7" onload="window.addon_1987800582(this,9,667987,false);"></script>
+<script>
+runCore.init_article("https:\/\/news.tut.by\/",{ "base": "https:\/\/www.tut.by\/", "container": "#article_body"});
+try { runCore.setNewsUrl("https:\/\/news.tut.by\/economics\/667987.html");} catch(e){}
+try { runCore.setNewsID(667987);} catch(e){}
+try { runCore.init_tracking('utm_article_block'); } catch(e){}
+try { runCore.setStatHooks("https:\/\/news.tut.by\/","utm_article_block"); } catch(e){}
+if(($('meta[property="article:tags"][content]').attr('content') || '').toString().match(/(?:^|,)(?:2539|2544|2571)(?:,|$)/)) {
+    runCore.loadScript("https:\/\/www.tut.by\/"+'/scripts/BY/m0060417~'+runCore.get_option('rev').js+'.js',function(){
+        maillist_popup_loader('#m0060417');
+    });
+}
+</script>
+</div></div></div></div><script>
+$(document).ready(function() {
+    var el_h2 = $('#content-band > div.col-3 > div.col-i'),
+        h1 = parseInt($('#content-band > div.col-c > div.col-i > div.col-w').css('height').replace(/[^0-9]/g, ''), 10) || 0,
+        h2, widget, ad;
+    do {
+        h2 = el_h2.height();
+        if (h2 - h1 <= 300) {
+            break;
+        }
+        widget = el_h2.find('div.b-widget:last');
+        if (widget.length < 1) {
+            break;
+        }
+        widget.remove();
+    } while (true);
+    ad = el_h2.find('div[data-widget="vscroll"]:last');
+    if (ad.length > 0) {
+        ScrollReveal().reveal(ad.get(0), {
+            duration: 1000
+        });
+    }
+});</script>
+
+    
+    <div class="b-prmplace-l"><div class="b-prmplace"><div class="b-prmplace-media">
+<!-- Yandex.RTB R-A-196269-2 --><div id="yandex_rtb_R-A-196269-2"></div>
+<script type="text/javascript">
+ (function(w, d, n, s, t) {
+ w[n] = w[n] || [];
+ w[n].push(function() {
+ Ya.Context.AdvManager.render({
+ blockId: "R-A-196269-2",
+ renderTo: "yandex_rtb_R-A-196269-2",
+ horizontalAlign: true,
+ async: true
+ });
+ });
+ t = d.getElementsByTagName("script")[0];
+ s = d.createElement("script");
+ s.type = "text/javascript";
+ s.src = "//an.yandex.ru/system/context.js";
+ s.async = true;
+ t.parentNode.insertBefore(s, t);
+ })(this, this.document, "yandexContextAsyncCallbacks");
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/757/27777/img/157857149/362.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/757/27777/js/157857149/362.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div></div></div>
+</div></div>
+<div class="outer"><div class="inner"><div class="col-2"><div class="col-i"><div class="b-rubric">
+    <!--relap v6--><script id="f4B_BMQEpd4kcj4-">if (window.relap) window.relap.ar('f4B_BMQEpd4kcj4-');</script><!--relap v6-->
+    <!--relap v7--><!--<ins data-relap-id="9wj3xgbGW1KoW52d"></ins>--><!--relap v7-->
+</div></div></div>
+</div></div>
+<div class="outer"><div class="inner"><div class="col-2">
+<!--Площадка: news.tut.by / Все страницы news.tut.by / news_футер--><!--Категория: <не задана>--><!--Тип баннера: 100%-2--><div id="adfox_153546747552133019"></div>
+<script>
+ window.Ya.adfoxCode.create({
+ ownerId: 246762,
+ containerId: 'adfox_153546747552133019',
+ params: {
+ p1: 'cbuqc',
+ p2: 'gass',
+ puid1: '',
+ puid2: ''
+ }
+ });
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/1104/48449/img/157857149/4652.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/1104/48449/js/157857149/4652.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div></div></div>
+<div class="l-outer"><div class="l-layer"><div class="l-columns"><div class="l-cols cols-1"><div class="l-col"><div class="l-col-i"><!-- Catalog offers: 09.01.2020 14.57 --><div class="l-box b-projects"><form id="s_tamby_offers" data-utm="utm_source={{hostname}}&amp;utm_medium=bottom-block&amp;utm_campaign=offers"><div class="project-head m-topic-tam"><div class="head-addon"><a href="https://tam.by/user/add/" target="_blank" data-utm="utm_source=tam-slider&utm_medium=TUT_sliders&utm_campaign=add-promo">Добавить компанию</a><a href="https://reklama.tam.by/" target="_blank" data-utm="utm_source=tam-slider&utm_medium=TUT_sliders&utm_campaign=landing-promo">Реклама на TAM.BY</a><a href="https://tam.by/#offers">Все скидки и акции</a></div><div class="head-title logo-holder"><a href="https://tam.by/?rr=15800" target="_blank"><img src="https://img.tyt.by/i/by5/logo-tam.png" width="94" height="26" alt=""></a><span>Нужные услуги в нужный момент</span></div></div><div class="b-slider slider_catalog" data-widget="slider" data-frame-width="3,4" data-nav-url="https://tam.by/?rr=15800#offers"><div class="b-slider_list"><div class="entry-product entry_tam entry_catalog">
+<a  data-ua-hash="main_catalog_offer~banner" class="entry__link" data-tamby-href="https://me-time.tam.by/skidki/angliiskii-v-mini-gruppahprazdnichnaya-skidka-50/" href="https://preved.tut.by/?clickid=55143&frameid=825&keywordid=&rnd=195&u=eb3515880a7b62d841db31f4a45626d6&rubrics=9&tags=2407&redirect_uri=https%3A%2F%2Fme-time.tam.by%2Fskidki%2Fangliiskii-v-mini-gruppahprazdnichnaya-skidka-50%2F" target="_blank" rel="nofollow">
+<span class="shadow"><span class="entry_footer"><span class="entry_title">Английский в мини-группах. Праздничная скидка 50%!</span><span class="entry_descr">Ми тайм / Me time</span><span class="label_details">Подробнее</span></span>
+</span>
+<span class="label"><span>-50%</span></span></a> <img width="420" height="280" alt="" src="https://img.tam.by/420x280c/offers/0f/c/02cf8830d0f052b1602e4ec589a6e2edc9b79ac0-1.jpg" class="entry__img"><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/825/55143/img/157857149/195_advertising.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/825/55143/js/157857149/195_advertising.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div></div><div class="entry-product entry_tam"><a href="https://teplodar.tam.by/skidki/skidka-10na-pech-dlya-bani-teplodar-rus-setka-18-l/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка 10% на печь для бани Теплодар Русь-сетка 18 Л</span>
+    <span class="entry_descr">Руматэк</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-10%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/user_uploads/0f/a/d57aaa1242bf150743d82a86a115a0974eea84e2.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://united-travel.tam.by/skidki/goryaschie-tury-v-dubai-ot-952-rubleichel/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Горящие туры в Дубаи от 952 рублей / чел.</span>
+    <span class="entry_descr">Юнайтед Трэвел</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span><img alt="" src="https://img.tyt.by/catalog/icons/icon-gift.png" srcset="https://img.tyt.by/catalog/icons/icon-gift-2x.png 2x"></span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/00/5/7275f1df7079ce3f0eadb096cd43f5a32019ac8d-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://m-servis.tam.by/skidki/skidka-15na-zamenu-masla-dvs-po-pyatnitsam/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка 15% на замену масла ДВС по пятницам</span>
+    <span class="entry_descr">М-сервис</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-15%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/01/5/c65147c50790d2e94600f7258dad02fc-2.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://nits-magistr.tam.by/skidki/besplatnyi-montazh-dizainerskogo-konditsionera-serii-zs-wt/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Бесплатный монтаж дизайнерского кондиционера серии ZS-WT, ZS-W</span>
+    <span class="entry_descr">НИЦ Магистр</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span><img alt="" src="https://img.tyt.by/catalog/icons/icon-gift.png" srcset="https://img.tyt.by/catalog/icons/icon-gift-2x.png 2x"></span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/0c/3/11600ea1ffdb9804846fba8e3433fef89123f189-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://united-travel.tam.by/skidki/goryaschie-tury-v-kitai-na-o-hainan-ot-1189-rubleichel/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Горящие туры в Китай на о.Хайнань от 1189 рублей / чел.</span>
+    <span class="entry_descr">Юнайтед Трэвел</span>
+    <span class="label_details">Подробнее</span>
+</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/00/10/15804a6d5fd747aea57808bdead7f05873e0429b-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://nits-magistr.tam.by/skidki/skidka-do-15na-konditsionery-mitsubishi-heavy-industries-pri-pokupkena-meste/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка до 15% на кондиционеры Mitsubishi Heavy Industries при покупке &quot;на месте&quot;</span>
+    <span class="entry_descr">НИЦ Магистр</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-15%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/01/b/3a7c43d8a32e10b7d2e89186a6421355-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://divanby-com.tam.by/skidki/skidka-21na-divan-napoli/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка 34% на диван Наполи!</span>
+    <span class="entry_descr">Белмебельпроект / Диванбай.ком</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-34%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/07/e/540c2009185743478526c6fd756006482aad79a4-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://russkij-les.tam.by/skidki/skidka-15na-brusdosku-obreznuyu/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка 15% на брус / доску обрезную</span>
+    <span class="entry_descr">Компания Русский Лес</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-15%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/03/b/f6aff4960a4c0ea1da0b356181a8515b-2.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://m-servis.tam.by/skidki/vsem-klientam-avtomoiki-polnyi-osmotr-hodovoi-chasti-v-podarok/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Всем клиентам автомойки полный осмотр ходовой части в подарок</span>
+    <span class="entry_descr">М-сервис</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span><img alt="" src="https://img.tyt.by/catalog/icons/icon-gift.png" srcset="https://img.tyt.by/catalog/icons/icon-gift-2x.png 2x"></span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/0f/d/8ef237f0d176a55dae04263484a87dd6-2.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://aksamit.tam.by/skidki/skidka-44na-detskii-garniturkaleidoskop/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Скидка 44% на детский гарнитур &quot;Калейдоскоп&quot;</span>
+    <span class="entry_descr">Аксамит</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-44%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/09/f/9b46feea0e13e88508ee27689104016c742e0cca-1.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://abv-azbuka.tam.by/skidki/zanyatie-po-vozhdeniyu-v-podarok/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">Занятие по вождению в подарок от автошколы &quot;Азбука вождения&quot;</span>
+    <span class="entry_descr">Азбука вождения</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span><img alt="" src="https://img.tyt.by/catalog/icons/icon-gift.png" srcset="https://img.tyt.by/catalog/icons/icon-gift-2x.png 2x"></span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/0e/d/fd64bb4d0b6b69524bc163ac92e13416-2.jpg" height="280" width="420" alt=""></div>
+<div class="entry-product entry_tam"><a href="https://vserozetki.tam.by/skidki/pri-pokupke-ot-5-svetilnikovskidka-30/#offer" class="entry__link" target="_blank"><span class="shadow"><span class="entry_footer">
+    <span class="entry_title">При покупке от 5 светильников - скидка 30%</span>
+    <span class="entry_descr">Все Розетки / Vserozetki.by</span>
+    <span class="label_details">Подробнее</span>
+</span></span><span class="label"><span>-30%</span></span></a><img  class="entry__img" src="https://img.tam.by/420x280c/offers/04/7/05d656b2214e1d3442facdb393242871-2.jpg" height="280" width="420" alt=""></div>
+</div><button class="b-slider_btn prev" data-role="slider-nav" data-offset="-1"><i class="b-icon icon-prev"></i></button><button class="b-slider_btn next" data-role="slider-nav" data-offset="+1"><i class="b-icon icon-next"></i></button></div></form><script>runCore.init_tracking('#s_tamby_offers'); runCore.init_framed('#s_tamby_offers');</script></div><!-- /Catalog offers --></div></div></div></div></div></div>
+<!--Footer [begin]--><div id="footer" class="b-footer"><div class="b-footer-i"><div class="l-columns"><div class="l-cols cols-5"><div class="l-col"><div class="l-col-i"><ul class="footer_link__list">
+    <li class="footer_link__item"><a class="footer__link" href="https://www.tut.by/route/appear/smart/?l=http%3A%2F%2Fsmart.tut.by%2F" data-routed="1" rel="nofollow">Мобильная версия</a></li>
+    <li class="footer_link__item">Приложения:</li>
+    <li class="footer_link__item"><ul class="b-footer-hl">
+        <li class="hl-i"><a href="http://mobile.tut.by/app-news-android.html?utm_source=TUT.BY&utm_medium=ref&utm_campaign=footer_newspage" title="Android" target="_blank" class="b-icon icon-andr" rel="nofollow">Android</a></li>
+        <li class="hl-i"><a href="http://mobile.tut.by/app-news-iphone.html?utm_source=TUT.BY&utm_medium=ref&utm_campaign=footer_newspage" title="iOS" target="_blank" class="b-icon icon-ios" rel="nofollow">iOS</a></li>
+    </ul></li>
+</ul></div></div><div class="l-col"><div class="l-col-i"><ul class="footer_link__list">
+    <li class="footer_link__item"><a id="lCSwitch_bel" href="https://www.tut.by/route/lang/bel/?l=https://news.tut.by/" class="footer__link" title="Па-беларуску">Па-беларуску</a><script>$('#lCSwitch_bel[href]').each(function(){ var el=$(this);el.attr("href",el.attr("href").toString().replace(/([?&]l=)[^&#]+/,'$1'+window.encodeURIComponent(window.location.href)));});</script></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://www.tut.by/unews/?utm_source=news.tut.by&utm_medium=footer&utm_campaign=editorial_link" rel="nofollow">Связаться с редакцией</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="/limitation.html" rel="nofollow">Условия использования материалов</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://profile.tut.by/term.html" rel="nofollow">Пользовательское соглашение</a></li>
+</ul></div></div><div class="l-col"><div class="l-col-i"><ul class="footer_link__list">
+    <li class="footer_link__item"><a class="footer__link" href="https://twitter.com/tutby/" target="_blank" rel="nofollow"><i class="b-icon icon-twt-sm m-canv"></i>Twitter</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://www.facebook.com/tut.by/" target="_blank" rel="nofollow"><i class="b-icon icon-fb-sm m-canv"></i>Facebook</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://vk.com/tutby" target="_blank" rel="nofollow"><i class="b-icon icon-vk-sm m-canv"></i>ВКонтакте</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://ok.ru/tutby" target="_blank" rel="nofollow"><i class="b-icon icon-od-sm m-canv"></i>Одноклассники</a></li>
+</ul></div></div><div class="l-col"><div class="l-col-i"><ul class="footer_link__list">
+    <li class="footer_link__item"><a class="footer__link" href="https://invite.viber.com/?g2=AQAG6KinUuRDR0lUgJ5tahe1NyPFqJnsMVyVEyeTaPMAwPRdqk%2FU%2FSwlRXFJXl65&lang=ru" target="_blank" rel="nofollow"><i class="b-icon icon-vb-sm m-canv"></i>Viber</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://www.youtube.com/user/TUTBYtv" target="_blank" rel="nofollow"><i class="b-icon icon-youtube m-canv"></i>Youtube</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://www.instagram.com/tutbylive/" target="_blank" rel="nofollow"><i class="b-icon icon-inst m-canv"></i>Instagram</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://t.me/tutby_official" target="_blank"><i class="b-icon icon-tg-sm m-canv"></i>Telegram</a></li>
+</ul></div></div><div class="l-col"><div class="l-col-i"><ul class="footer_link__list">
+    <li class="footer_link__item" id="TUTBYPush-fe8daf4c-ea96-11e5-8de3-00215ae090fb"></li>
+    <li class="footer_link__item"><a class="footer__link" href="https://www.tut.by/maillist/" rel="nofollow">Подписаться на рассылку</a></li>
+    <li class="footer_link__item"><a class="footer__link" href="/rss.html" rel="nofollow">Использовать RSS</a></li>
+</ul></div></div></div></div><div class="b-footer-b"><ul class="b-footer-hl">
+    <li class="hl-i">&copy;&nbsp;ООО&nbsp;&laquo;<a class="footer__link" href="https://tutby.com/" target="_blank" title="ООО &laquo;ТУТ БАЙ МЕДИА&raquo;" rel="nofollow">ТУТ БАЙ МЕДИА</a>&raquo;, 2000&nbsp;&mdash;&nbsp;2020</li>
+    <li class="hl-i"><a href="https://www.tut.by/contacts/" target="_blank">Контакты</a></li>
+    <li class="hl-i">Общие вопросы: <a href="tel:+375173369100" title="Общие вопросы">+375&thinsp;(17)&thinsp;336-91-00</a></li>
+    <li class="hl-i"><a href="https://tutby.com/advert/order/?utm_source=news.tut.by&utm_medium=footer" target="_blank" rel="nofollow">Реклама</a>: <a href="tel:+375173369101">+375&thinsp;(17)&thinsp;336-91-01</a>, <a href="https://tutby.com/" data-utm="utm_source={{hostname}}&utm_medium=footer" target="_blank" rel="nofollow">www.tutby.com</a></li>
+    <li class="hl-i"><a href="https://hoster.by/?utm_source=tutby&utm_medium=link&utm_campaign=footer&utm_term=cloud" target="_blank" title="Облачный хостинг" rel="nofollow">Облачный хостинг</a></li>
+</ul></div></div></div><script>$('#footer a[data-routed="1"]').each(function(){ var el=$(this);el.attr("href",el.attr("href").toString().replace(/([?&]l=)[^&#]+/,'$1'+window.encodeURIComponent(window.location.href)));});(function(el){if(el.length>1) {$(el.get(1)).find('a[href][data-utm]').each(function(){var a=$(this);a.attr('data-utm',a.attr('data-utm').replace('utm_medium=news-right-block','utm_medium=floating-news-right-block'));});};runCore.init_tracking(el);})($('.b-footer-b'));</script><!--Footer [end]-->
+<!-- branding bottom may be here--><script type="text/javascript">try{runCore.set_param("ututtrg","eyJycyI6MTg1LCJydSI6IjkiLCJ0ZyI6W3siMjQwNyI6IjEwMCJ9LHsiZXg2MDI0IjoiMTAwIn0seyJleDYzNDAiOiI1OCJ9XX0=");}catch(e){}</script><!-- CODE[09.01.2020 15:00]: news.tut.by, footer -->
+<!-- GA CODE --><script>var aUAAccounts=[["","UA-285326-16","tut.by"],["news","UA-46480880-2","tut.by"],["titlenews","UA-285326-8","tut.by"],["all","UA-285326-30","tut.by"]];</script><script async src="https://www.tut.by/scripts/BY/ga~r27379.js"></script><!-- /GA CODE -->
+<script type="text/javascript">var recordOutboundLink=recordOutboundLink?recordOutboundLink:function (link,category,action,donotredirect) { try {var pageTracker=_gat._getTracker("UA-285326-16");pageTracker._trackEvent(category, action);if(!donotredirect) setTimeout('document.location = "' + link.href + '"', 100);return true;} catch(e) { return false; }; };</script>
+<!--LiveInternet counter--><script type="text/javascript">new Image().src = "//counter.yadro.ru/hit?r"+escape(document.referrer)+((typeof(screen)=="undefined")?"":";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+";h"+escape(document.title.substring(0,80))+";"+Math.random();</script><!--/LiveInternet-->
+<!-- Yandex.Metrika counter --><script>(function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})(window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");ym(46086984,"init",{params:window.yaParams46086984||window.yaParams||{},clickmap:true,trackLinks:true,accurateTrackBounce:true,triggerEvent:true});ym(17863798,"init",{params:window.yaParams17863798||window.yaParams||{},webvisor:true,clickmap:true,trackLinks:true,accurateTrackBounce:true});</script><noscript><div><img src="//mc.yandex.ru/watch/46086984?ut=noindex" style="position:absolute;left:-9999px;" alt=""><img src="//mc.yandex.ru/watch/17863798?ut=noindex" style="position:absolute;left:-9999px;" alt=""></div></noscript><!-- /Yandex.Metrika counter -->
+<script async src="https://www.tut.by/push/fe8daf4c-ea96-11e5-8de3-00215ae090fb/app.js" onload="TUTBYPushManager.init({autoRegister:true, debug: window.location.hash==&quot;#fe8daf4c-ea96-11e5-8de3-00215ae090fb&quot;});"></script>
+<!-- Facebook Pixel Code --><script>!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version="2.0";n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","358054421733988");fbq("track","PageView");fbq("track","ViewContent");fbq("track","Search");</script>
+<!-- VK Pixel Code --><script>!function(){var t=document.createElement("script");t.type="text/javascript",t.async=!0,t.src="//vk.com/js/api/openapi.js?161",t.onload=function(){VK.Retargeting.Init("VK-RTRG-384344-O0U4"),VK.Retargeting.Hit()},document.head.appendChild(t)}();</script><noscript><img src="//vk.com/rtrg?p="VK-RTRG-384344-O0U4"" style="position:fixed; left:-999px;" alt=""></noscript><!-- /VK Pixel Code -->
+<!-- Google Tag Manager (noscript) --><noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-KBPW36" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript><!-- /Google Tag Manager (noscript) -->
+
+<a href="https://preved.tut.by/?clickid=13877&frameid=828&keywordid=&rnd=2313&u=f741f0437991578c1aa17d60bd9e6492&rubrics=9&tags=2407" target="_blank" rel="nofollow"></a><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/828/13877/img/157857149/2313.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/828/13877/js/157857149/2313.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div>
+<!--В head сайта один раз подключите библиотеку--><!--AdFox START--><!--tutby--><!--Площадка: Технический / Пиксели Яндекса для шок-контента DESK / news--><!--Категория: <не задана>--><!--Тип баннера: 1x1--><script src="https://yastatic.net/pcode/adfox/loader.js" crossorigin="anonymous"></script><div id="adfox_156024217515152326"></div>
+<script>
+ window.Ya.adfoxCode.create({
+ ownerId: 246762,
+ containerId: 'adfox_156024217515152326',
+ params: {
+ p1: 'cfbws',
+ p2: 'frfe',
+ puid1: '',
+ puid2: '',
+ puid3: '',
+ puid4: '',
+ puid5: '0'
+ }
+ });
+</script><div rel="nofollow" style="position:absolute;width:1px;height:1px;left:0;font-size:0px;line-height:0px;overflow:hidden;"><!--noindex--><img src="https://c1hit.tut.by/stat/1127/50286/img/157857149/2527_advertising.gif" onload="(function(e,i){i.setAttribute('src','https://c2hit.tut.by/stat/1127/50286/js/157857149/2527_advertising.gif');e.parentNode.appendChild(i);})(this,document.createElement('img'));"><span style="position:absolute;left:0;background:url('https://c1hit.tut.by/res_co_track.gif')"></span><!--/noindex--></div>
+</body></html>
